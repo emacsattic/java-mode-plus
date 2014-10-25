@@ -1,9 +1,9 @@
 # Emacs Java Support
 
-## Depreciation
+## Deprecation
 
-**This package is now depreciated and unmaintained.** It has been
-split into two separate, more focused packages.
+**This package is now deprecated and unmaintained.** It has been split
+into two separate, more focused packages.
 
 The java-docs portion has been replaced by the more powerful
 [javadoc-lookup](https://github.com/skeeto/javadoc-lookup). This one
